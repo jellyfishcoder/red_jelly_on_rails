@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.3.1'
 
 # Use the "Puma" webserver
 gem 'puma'
